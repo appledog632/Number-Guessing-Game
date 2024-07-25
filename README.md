@@ -6,12 +6,11 @@ Are you ready to test your luck and intuition? 🤔✨ Dive into a world of numb
 <br>
 # 🔢 How to Play:
 <br>
-**1. Set the Range:** Choose your difficulty by setting a minimum and maximum number. 🎚️
+
+1. **Set the Range:** Choose your difficulty by setting a minimum and maximum number. 🎚️
 <br>
-Make a Guess: Enter your guess and see if you can hit the jackpot! 💥
+2. **Make a Guess:** Enter your guess and see if you can hit the jackpot! 💥
 <br>
-Hints Galore: Don’t worry if you miss; you'll get hints to guide you closer to the mystery number. 🕵️‍♀️📈
+3. **Hints Galore:** Don’t worry if you miss; you'll get hints to guide you closer to the mystery number. 🕵️‍♀️📈
 <br>
-Win or Try Again: Celebrate your victory with a confetti shower or take another shot at guessing! 🎉🔄
-<br>
-Can you become the ultimate Number Guessing Master? 🏆✨ Let's find out!
+4. **Win or Try Again:** Celebrate your victory with a confetti shower or take another shot at guessing! 🎉🔄
