@@ -1,5 +1,5 @@
 # Number-Guessing-Game
-🎲 Welcome to the Ultimate Number Guessing Game! 🎲
+🎲 Welcome to the Ultimate Number Guessing Game!! 🎲
 <br>
 Are you ready to test your luck and intuition? 🤔✨ Dive into a world of numbers and excitement! Your mission, should you choose to accept it, is to guess the secret number hidden within a given range. 📊🔍
 <br>
