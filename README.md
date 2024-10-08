@@ -6,7 +6,7 @@ Are you ready to test your luck and intuition? 🤔✨ Dive into a world of numb
 <br>
 # 🔢 How to Play:
 <br>
-1. Set the Range: Choose your difficulty by setting a minimum and maximum number. 🎚️
+1. Set the Range: Choose your difficulty by setting a minimum and maximum number.🎚️
 <br>
 2. Make a Guess: Enter your guess and see if you can hit the jackpot! 💥
 <br>
